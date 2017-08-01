@@ -1,6 +1,12 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <internal_templates>
+      <template name="Pyramid layout jinja2.jinja2" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Pyramid layout mako.mako" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Pyramid layout pt.pt" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Pyramid mytemplate jinja2.jinja2" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Pyramid mytemplate mako.mako" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="Pyramid mytemplate pt.pt" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="Python Script.py" reformat="true" live-template-enabled="true" enabled="true" />
     </internal_templates>
   </component>
