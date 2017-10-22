@@ -2,6 +2,7 @@
   <option name="RIGHT_MARGIN" value="132" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_TEXT_WRAP" value="0" />
   <option name="HTML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <option name="HTML_ENFORCE_QUOTES" value="true" />
@@ -27,8 +28,9 @@
   </JSCodeStyleSettings>
   <Python>
     <option name="SPACE_WITHIN_BRACES" value="true" />
+    <option name="SPACE_AROUND_POWER_OPERATOR" value="false" />
     <option name="NEW_LINE_AFTER_COLON" value="true" />
-    <option name="SPACE_AFTER_NUMBER_SIGN" value="false" />
+    <option name="SPACE_BEFORE_NUMBER_SIGN" value="false" />
     <option name="DICT_ALIGNMENT" value="2" />
     <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
     <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
@@ -38,6 +40,7 @@
     <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
     <option name="FROM_IMPORT_NEW_LINE_BEFORE_RIGHT_PARENTHESIS" value="true" />
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+    <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
   </Python>
   <TypeScriptCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
@@ -69,7 +72,6 @@
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
-    <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>

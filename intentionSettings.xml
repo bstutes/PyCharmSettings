@@ -1,5 +1,7 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="CoffeeScript/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="Python/Convert 'from module import' to 'import module'" />
   </component>
 </application>

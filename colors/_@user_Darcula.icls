@@ -4,7 +4,7 @@
     <property name="created">2017-05-22T04:08:09</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.1.2.0.0</property>
-    <property name="modified">2017-05-22T14:23:35</property>
+    <property name="modified">2017-10-21T13:28:20</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -13,7 +13,7 @@
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
     <option name="EDITOR_FONT_SIZE" value="13" />
   </font>
   <attributes>
@@ -237,6 +237,11 @@
         <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
+    <option name="DEFAULT_DOT">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
     <option name="DEFAULT_ENTITY">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
@@ -323,7 +328,9 @@
       </value>
     </option>
     <option name="PY.DOT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
     </option>
     <option name="PY.INVALID_STRING_ESCAPE">
       <value>
