@@ -33,7 +33,6 @@
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
   </JSCodeStyleSettings>
   <Python>
-    <option name="SPACE_AFTER_PY_COLON" value="false" />
     <option name="SPACE_AROUND_POWER_OPERATOR" value="false" />
     <option name="BLANK_LINES_BEFORE_FIRST_METHOD" value="1" />
     <option name="SPACE_BEFORE_NUMBER_SIGN" value="false" />
